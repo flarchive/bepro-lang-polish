@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of bepro/lang-polish.** Not for installation: use [Packagist](https://packagist.org/packages/bepro/lang-polish) or the [upstream repository](https://github.com/bepropl/lang-polish).
 
-**0** versions archived · Latest: [`0.8.1.0`](https://github.com/flarchive/bepro-lang-polish/tree/archive/v0.8.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8.1`
+**1** versions archived · Latest: [`0.8.1.0`](https://github.com/flarchive/bepro-lang-polish/tree/archive/v0.8.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.8.1.0` | 2018-12-21 | `^0.1.0-beta.8.1` | [Browse](https://github.com/flarchive/bepro-lang-polish/tree/archive/v0.8.1.0) |
 
 Catalog entry: [packages/bepro-lang-polish.json](https://github.com/flarchive/archive-index/blob/main/packages/bepro-lang-polish.json)
 
